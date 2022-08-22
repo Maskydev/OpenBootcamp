@@ -1,0 +1,5 @@
+Esto es un archivo de prueba
+del ejercicio 1
+del módulo entrada y salida
+de Python
+para practirar la escritura en fichero
